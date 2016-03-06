@@ -1,7 +1,7 @@
 package com.SimpleCalculation.basic;
 
 /**
- * BasicCalc contractor taking the parameters
+ * BasicCalc contractor 
  * 
  * @author vic
  *
