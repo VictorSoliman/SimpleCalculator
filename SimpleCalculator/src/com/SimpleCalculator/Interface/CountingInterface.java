@@ -6,7 +6,7 @@ package com.SimpleCalculator.Interface;
  * @author vic
  *
  */
-public interface Counting {
+public interface CountingInterface {
 
 	public void operation(char operationSymbol);
 
